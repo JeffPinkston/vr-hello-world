@@ -1,0 +1,22 @@
+{
+  "name": "aframe-hello-world-boilerplate",
+  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
+  "version": "0.3.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ]
+}
